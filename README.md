@@ -1,0 +1,1 @@
+# jisr-strapi-nextjs-assign
